@@ -12,6 +12,7 @@
 | --- | --- |
 | [Постановка](research/architecture-process/00-research-brief.md) | Проблема, рабочие гипотезы и результат первого этапа |
 | [Чтение](research/architecture-process/05-learning-path.md) | Три источника с мотивом включения и результатом чтения |
+| [Термины](research/architecture-process/11-terminology.md) | Русские соответствия и смысл основных понятий |
 | [Протокол](research/architecture-process/03-research-protocol.md) и [шаблоны](research/architecture-process/06-templates.md) | Проверка достаточности, рисков, различий и оснований продолжать анализ |
 | [Заметки источников](research/architecture-process/10-core-source-notes.md) | Содержание, свидетельства, границы выводов и приоритет получения |
 | [Карта области](research/architecture-process/01-landscape.md) и [каталог](research/architecture-process/02-literature.md) | Дополнительные направления по конкретному вопросу |
