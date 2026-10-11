@@ -1,0 +1,73 @@
+EurekaMag.com
+Search Authors, Year, Title, Source, PMID, DOI, or Accession Number...
+Home
+>
+Section
+>
+Chapter
+
+Toward Evidence-Based Architectural Decision Making Over Fragmented Knowledge
+Mori, S.; Nishio, K.; Inagawa, T.; Washizaki, H.; Ubayashi, N.
+
+Proceedings - 2026 IEEE 23rd International Conference on Software Architecture Companion, ICSA-C 2026: 114-117
+2026
+ISSN/ISBN: 9798331557409 
+DOI: 10.1109/icsa-c68850.2026.00029
+Accession: 109998497
+
+Full-Text Article emailed within 0-6 h
+ Buy Now for $19.90
+ Payments are secure & encrypted
+Powered by Stripe
+Powered by PayPal
+
+Summary
+Architectural design involves decisions that should be justified by explicit rationale and grounded in documented evidence. This paper proposes an evidence-based architectural decision-support framework that preserves document-level requirement-architecture relations as contextualized evidence. The framework stores concrete requirement-architecture relations with explicit provenance in a knowledge graph (KG) and recombines them at analysis time for a given design question. Large language models (LLMs) support KG construction, exploration, and summarization, while humans make the final judgments in a human-on-the-loop setting. We demonstrate the framework through an automotive case study comparing centralized and decentralized electronic control unit architectures. The results show an approximately 80% reduction in analysis time, the discovery of up to ten additional comparison points from domain-agnostic literature, and the highest agreement with expert judgments when consolidating domain-specific evidence, while maintaining traceability to source documents. These findings suggest that preserving and recombining fragmented architectural evidence can support transparent, evidence-backed decision making.
+
+References
+Niranjan, M.S.; Niranjan, T.; Vyshnav, P.; Sanaj, M.S. 2026: Hand Gesture Mouse Using Hand Landmark Detection ADSSSC 2026 - International Conference on AI-Driven Solutions for Sustainable Smart Cities: Challenges and Opportunities: 317-322
+Hyde, R. 2011: Architectural science and its role in evidence-based decision-making Architectural Science Review 54(3): 175-177
+Musil, J.; Ekaputra, F.J.; Sabou, M.; Ionescu, T.; Schall, D.; Musil, A.; Biffl, S. 2017: Continuous Architectural Knowledge Integration: Making Heterogeneous Architectural Knowledge Available in Large-Scale Organizations Proceedings - 2017 IEEE International Conference on Software Architecture, ICSA 2017: 189-192
+Ulapane, N.; Wickramasinghe, N. 2022: Clinical Decision-Making as a Subset of Decision-Making: Leveraging the Concepts of Decision-Making and Knowledge Management to Characterize Clinical Decision-Making Healthcare and Knowledge Management for Society 5.0: Trends, Issues, and Innovations: 47-62
+Ramar, V.A.; Kolli, Y.K.; Kushala, K.; Induru, V.; Radhakrishnan, P.; Kumar, S.K.P. 2025: Developing Knowledge-based Decision Support Systems (KBDSS) for Evidence-Driven Clinical Decision Making 2nd Asian Conference on Intelligent Technologies, ACOIT 2025
+Zhang, L.; Dong, Y.; Ji, Y.; Tao, R.; Chen, X.; Ye, J.; Zhang, L.; Yu, F.; Zhu, C.; Wang, K. 2015: Trait-related decision making impairment in obsessive-compulsive disorder: evidence from decision making under ambiguity but not decision making under risk Scientific Reports 5: 17312
+Quinn, E.; Huckel-Schneider, C.; Campbell, D.; Seale, H.; Milat, A.J. 2014: How can knowledge exchange portals assist in knowledge management for evidence-informed decision making in public health? Bmc Public Health 14: 443
+Manns, B.J. 2015: Evidence-based decision-making 7: Knowledge translation Methods in Molecular Biology 1281: 485-500
+Lefebre, N. 2010: Knowledge to action: integrating the use of evidence in management decision making Healthcare Management Forum 23(2): 48-57
+McCurtin, A.; Murphy, C.-A.; Roddam, H. 2019: Moving Beyond Traditional Understandings of Evidence-Based Practice: a Total Evidence and Knowledge Approach (TEKA) to Treatment Evaluation and Clinical Decision Making in Speech-Language Pathology Seminars in Speech and Language 40(5): 370-393
+Potempa, C. 2019: Decision making in the healthcare system: Evidence-to-Decision (EtD) model for transparent decisions; Entscheidungsfindung im Gesundheitswesen - Evidence-to-Decision (EtD)-Modell für nachvollziehbare Entscheidungen Gesundheitsokonomie und Qualitatsmanagement 24(5): 218
+Moynihan, J.J. 1999: Architectural decision making in design-build - Prise de décision architecturale dans le processus construction conception Csi Convention and Exhibit 52(6): 67-69
+Del Junco, J.G.; Zaballa, Rafael De Reyna; de Perea, Juan Garcia Alvarez 2010: Evidence-Based Administration for Decision Making in the Framework of Knowledge Strategic Management Learning Organization 17(4): 343-363
+Karimi, S.; Papamichail, K.N.; Holland, C.P. 2015: The effect of prior knowledge and decision-making style on the online purchase decision-making process: a typology of consumer shopping behaviour Decision Support Systems 77: 137-147
+Bhat, M.; Tinnes, C.; Shumaiev, K.; Biesdorf, A.; Hohenstein, U.; Matthes, F. 2019: ADeX: A Tool for Automatic Curation of Design Decision Knowledge for Architectural Decision Recommendations Proceedings - 2019 IEEE International Conference on Software Architecture - Companion, ICSA-C 2019: 158-161
+Latulippe, N.; Klenk, N. 2020: Making room and moving over: knowledge co-production, Indigenous knowledge sovereignty and the politics of global environmental change decision-making Current Opinion in Environmental Sustainability 42: 7-14
+Liniger, H.; Harari, N.; van Lynden, G.; Fleiner, R.; de Leeuw, J.; Bai, Z.; Critchley, W. 2019: Achieving land degradation neutrality: The role of Slm knowledge in evidence-based decision-making Environmental Science and Policy 94: 123-134
+Dobbins, M.; Robeson, P.; DeCorby, K.; Husson, H.; Trillis, D.; Lee, E.; Greco, L. 2018: Knowledge management: A mechanism for promoting evidence-informed public health decision making Knowledge Management in Public Health: 137-155
+Anderson, E.E.; DuBois, J.M. 2012: IRB decision-making with imperfect knowledge: a framework for evidence-based research ethics review Journal of Law Medicine and Ethics: a Journal of the American Society of Law Medicine and Ethics 40(4): 951-969
+Weiland, S. 2016: On the role of evidence and knowledge in sustainability governance -towards a reflexive approach to political decision-making ? Revue de Metaphysique et de Morale 89(1): 39-54
+
+
+Quick Search
+Accession
+PubMed PMID
+DOI
+
+Full Text Article Service
+How our services work	How our service works
+Request Full Text Article	Request Full Text Article
+In-house Digitized Publications	In-house Digitized Texts
+
+Site Statistics
+89,876,676 References	All References: 89,876,676
+38,989,186 Medical articles	Medical: 38,989,186
+35,443,340 PMIDs	PMIDs: 35,443,340
+13,427,386 Biology articles	Biology: 13,427,386
+3,739,488 Zoology articles	Zoology: 3,739,488
+3,047,233 Geography articles	Geography: 3,047,233
+
+Social Media
+@EurekaMag on X	@EurekaMag
+@EurekaMag at LinkedIn	LinkedIn
+
+© 2026 EurekaMag.com · Sakala 7-2, 10141 Tallinn, Estonia
+Contact · Privacy, Disclaimer, Terms · 浙ICP备10204677号-1

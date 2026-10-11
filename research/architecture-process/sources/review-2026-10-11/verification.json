@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-11",
+  "selected_metadata": [
+    {
+      "id": "L30",
+      "doi": "10.1109/icsa65012.2025.00029",
+      "title": [
+        "Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners"
+      ],
+      "authors": [
+        {
+          "given": "Klara",
+          "family": "Borowa"
+        },
+        {
+          "given": "Rodrigo Rebouças",
+          "family": "de Almeida"
+        },
+        {
+          "given": "Marion",
+          "family": "Wiese"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            31
+          ]
+        ]
+      },
+      "metadata_source": "Crossref"
+    },
+    {
+      "id": "L31",
+      "doi": "10.1016/j.jss.2006.04.029",
+      "title": [
+        "A survey of architecture design rationale"
+      ],
+      "authors": [
+        {
+          "given": "Antony",
+          "family": "Tang"
+        },
+        {
+          "given": "Muhammad Ali",
+          "family": "Babar"
+        },
+        {
+          "given": "Ian",
+          "family": "Gorton"
+        },
+        {
+          "given": "Jun",
+          "family": "Han"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            12
+          ]
+        ]
+      },
+      "metadata_source": "Crossref"
+    },
+    {
+      "id": "L32",
+      "doi": "10.1109/icsa-c.2019.00033",
+      "title": [
+        "Evaluating Design Rationale in Architecture"
+      ],
+      "authors": [
+        {
+          "given": "Pim",
+          "family": "De Jong"
+        },
+        {
+          "given": "Jan Martijn E. M.",
+          "family": "Van Der Werf"
+        },
+        {
+          "given": "Marlies",
+          "family": "Van Steenbergen"
+        },
+        {
+          "given": "Floris",
+          "family": "Bex"
+        },
+        {
+          "given": "Matthieu",
+          "family": "Brinkhuis"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            3
+          ]
+        ]
+      },
+      "metadata_source": "Crossref"
+    },
+    {
+      "id": "L33",
+      "doi": "10.1109/icsa-c68850.2026.00029",
+      "title": [
+        "Toward Evidence-Based Architectural Decision Making Over Fragmented Knowledge"
+      ],
+      "authors": [
+        {
+          "given": "Shunsuke",
+          "family": "Mori"
+        },
+        {
+          "given": "Kohei",
+          "family": "Nishio"
+        },
+        {
+          "given": "Taku",
+          "family": "Inagawa"
+        },
+        {
+          "given": "Hironori",
+          "family": "Washizaki"
+        },
+        {
+          "given": "Naoyasu",
+          "family": "Ubayashi"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      },
+      "metadata_source": "Crossref"
+    }
+  ],
+  "retrieved_artifacts": [
+    {
+      "label": "L08 publisher",
+      "url": "https://www.informit.com/store/software-architecture-in-practice-9780136886099",
+      "date": "2026-10-11",
+      "http_status": 200,
+      "sha256": "74b7a58be9f6a875dfde514779b7290307e360db5c8a17b9aa61acf6c1b6aa18",
+      "bytes": 132234,
+      "reviewed_scope": "metadata and table of contents",
+      "full_artifact_committed": false
+    },
+    {
+      "label": "L10 primary PDF",
+      "url": "https://www.sei.cmu.edu/documents/629/2000_005_001_13706.pdf",
+      "date": "2026-10-11",
+      "http_status": 200,
+      "sha256": "f3d40302402a9f075615b2bf431e4ed84397cb4072fca6d842432191e9bdf324",
+      "bytes": 245552,
+      "reviewed_scope": "selected sections",
+      "full_artifact_committed": false
+    },
+    {
+      "label": "L30 author version v1",
+      "url": "https://arxiv.org/pdf/2502.04011v1",
+      "date": "2026-10-11",
+      "http_status": 200,
+      "sha256": "20cb4a424030ff32a5d449800eceec005fe003f6b80effbe6dfc8803fad56aa2",
+      "bytes": 285528,
+      "reviewed_scope": "introduction, methodology, results, validity threats and conclusion",
+      "full_artifact_committed": false
+    }
+  ]
+}

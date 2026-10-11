@@ -1,0 +1,124 @@
+{
+  "checked_on": "2026-10-11",
+  "source_url": "https://api.crossref.org/works/10.1109%2FICSA-C68850.2026.00029",
+  "doi": "10.1109/icsa-c68850.2026.00029",
+  "title": [
+    "Toward Evidence-Based Architectural Decision Making Over Fragmented Knowledge"
+  ],
+  "reference_count": 21,
+  "references": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/WICSA.2005.61"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jss.2006.04.029"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-030-29983-5_2"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICSE.2004.1317449"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jss.2020.110714"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.14445/22312803/ijctt-v38p109"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.infsof.2023.107327"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jmsy.2023.08.006"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.joi.2020.101109"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-981-96-0573-6_16"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "first-page": "52",
+      "DOI": "10.1145/3643660.3643942",
+      "article-title": "From requirements to architecture: An ai-based journey to semi-automatically generate software architectures",
+      "volume-title": "Proceedings of the 1st International Workshop on Designing Software",
+      "author": "Eisenreich",
+      "year": "2024"
+    },
+    {
+      "key": "ref12",
+      "article-title": "An llm-assisted approach to designing software architectures using add",
+      "author": "Cervantes",
+      "year": "2025",
+      "journal-title": "arXiv preprint"
+    },
+    {
+      "key": "ref13",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-031-95955-4_18"
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-1-4615-5269-7"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21236/ada382629"
+    },
+    {
+      "key": "ref16",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.21236/ADA460414"
+    },
+    {
+      "key": "ref17",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ISRE.2001.948567"
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ACIT62805.2024.10877117"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10115-023-01966-8"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TVT.2021.3054934"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1287/mnsc.47.1.117.10671"
+    }
+  ],
+  "eurekamag_user_copy_sha256": "906ebd6864f92a6c8e32a443bbaee5d1c378d9a312ae9fae87ccbb180ea292f3"
+}
